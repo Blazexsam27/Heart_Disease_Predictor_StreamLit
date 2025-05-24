@@ -9,7 +9,7 @@ An intelligent health tool that uses machine learning to predict the presence of
 
 ## 🚀 Demo
 
-[👉 Live Demo Link (optional)](https://heart-disease-predictor-ai.streamlit.app/)
+[👉 Live Demo Link ](https://heart-disease-predictor-ai.streamlit.app/)
 
 ## ⚙️ Features
 
